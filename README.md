@@ -2,9 +2,11 @@
 I build LLM features: RAG, agents, and real-time voice and I'm picky about reliability. I've integrated OpenAI-style APIs into products, shipped Docker services on Azure/GCP, added DeepEval to catch quality regressions, and fixed Postgres/API bottlenecks to keep latency steady. I'm comfortable hammering on async/streaming edge cases, digging through logs, and<br><br>writing clear repro steps when something breaks.
 
 
+
 ## 📊 GitHub Stats
 
-![Harsha's GitHub Stats](./assets/github-stats.png)
+![Harsha's GitHub Stats](./assets/Screenshot 2026-10-20 165853.png)
+
 
 
 ## 🌐 Socials:
