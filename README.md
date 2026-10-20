@@ -5,7 +5,7 @@ I build LLM features: RAG, agents, and real-time voice and I'm picky about relia
 
 ## 📊 GitHub Stats
 
-![Harsha's GitHub Stats](./assets/Screenshot 2026-10-20 165853.png)
+![Harsha's GitHub Stats](./assets/Screenshot-2026-10-20-165853.png)
 
 
 
