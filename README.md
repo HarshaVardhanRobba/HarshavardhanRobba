@@ -25,4 +25,18 @@ I build LLM features: RAG, agents, and real-time voice and I'm picky about relia
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HarshavardhanRobba&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+## 🏆 GitScore Dashboard
+
+<p align="center">
+  <a href="https://www.gitscore.live/HarshaVardhanRobba">
+    <img
+      src="./assets/HarshaVardhanRobba-gitscore.png"
+      alt="Harsha's GitScore Dashboard"
+      width="100%"
+    />
+  </a>
+</p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
