@@ -14,7 +14,7 @@ I build LLM features: RAG, agents, and real-time voice and I'm picky about relia
   </div>  
 
 ## certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f5515d1e-0f13-4e4c-a954-613ab6d88584" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![AWS Certification](https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)](https://www.credly.com/users/harsha-robba)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/h.a.r.s.h.a__7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshavarthanrobba/) [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=portfolio&logoColor=red)](https://portfolio-harshavardhanrobba.vercel.app/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:robbaharsha834@gmail.com) 
